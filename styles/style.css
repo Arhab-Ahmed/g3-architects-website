@@ -18,6 +18,12 @@
     color: var(--Dark-03, #727272);
 
 }
+.section-title{
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--Dark-01, #131313);
+
+}
 /* header  */
 header{
     background: rgba(255, 144, 14, 0.10);
@@ -42,12 +48,7 @@ nav li a{
     color: var(--Dark-02, #424242);
 
 }
-.nav-title{
-    font-size: 3rem;
-    font-weight: 700;
-    color: var(--Dark-01, #131313);
 
-}
 
 /* banner styles */
 .banner-content{
